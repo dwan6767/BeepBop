@@ -1,17 +1,19 @@
 # BeepBop
 
-A laboratory of open-source LoRa-based embedded devices. This repository documents a chain of experimental hardware projects, designed for learning and exploration.
+A collection of rogue hardware and LoRa experiments. 
 
-## Philosophy
-*   **Minimalist:** Focused on simple, efficient design.
-*   **Experimental:** Built for testing, measuring, and learning.
-*   **Open:** Schematics, code, and methodology shared freely.
+I'm building a chain of small, low-power devices. This repo is the landing pad for schematics, code, and logs from the bench. Everything here is open, raw, and meant to be taken apart.
 
-## Disclaimer
-**Experimental Hardware:** Many of these devices are designed for bench testing. Use appropriate equipment (scopes, dummy loads) and operate within legal frequency bands and power limits for your region.
+## The Mission
+* **Low Power, Long Reach:** Exploring LoRa.
+* **Keep It Simple:** No bloat, just the bare metal.
+* **Open Source:** If I built it, you can too. Break it, fix it, improve it.
 
-## Projects
-*   *Coming soon: Documentation for the first device.*
+## The Bench (Projects)
+* *Under construction...*
+
+## ⚠️ Warning
+**Experimental Gear.** This is uncertified, DIY electronics. If you transmit, stay in your lane—check your local RF laws. Don't build stuff that jams your neighbor's WiFi or breaks the law. Use a dummy load if you're not sure what you're doing.
 
 ---
-*Created by dwan6767*
+*Built by dwan6767*
