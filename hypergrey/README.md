@@ -17,23 +17,12 @@ Hypergrey is an open-hardware LoRa transceiver in a compact dongle/terminal form
 
 ## Visuals & Hardware Layout
 
-Images will be added as hardware iterations are finalized:
+### Hardware Build Overview
+![Hypergrey Board](images/IMG20260919151229.jpg)
+*Physical Hypergrey board prototype.*
 
-### 1. Board Front
-![Hypergrey Front](images/board-front.png)
-*Front overview showing the USB interface, core MCU, and main LoRa RF module.*
-
-### 2. Board Back
-![Hypergrey Back](images/board-back.png)
-*Bottom layout showing RF trace routing, ground plane design, and passives.*
-
-### 3. Pinout & Port Map
-![Hypergrey Pinout](images/pinout.png)
-*Hardware port mapping, status LEDs, boot/reset buttons, and antenna connector.*
-
-### 4. Terminal in Action
-![Hypergrey in Action](images/terminal-session.png)
-*Live serial communication session transceiving packets over LoRa via USB.*
+![Hypergrey Hardware detail](images/IMG_20260919_151714.jpg)
+*Close-up of the USB LoRa terminal module.*
 
 ---
 
