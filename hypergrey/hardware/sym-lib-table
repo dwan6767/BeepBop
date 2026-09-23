@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "hey")(type "Altium")(uri "/run/media/dwan/New Volume/VICHARAK/PROJECTS/GYPSY/PCB_Project/hey.SchLib")(options "")(descr ""))
+  (lib (name "hey-altium-import")(type "KiCad")(uri "${KIPRJMOD}/hey-altium-import.kicad_sym")(options "")(descr ""))
+)
